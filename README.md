@@ -1,2 +1,2 @@
-# scripts
-This is a place to store scripts that contain useful functions for reuse in projects
+# General lab scripts
+A repository for useful functions and scripts that can be reused by others
